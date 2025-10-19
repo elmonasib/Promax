@@ -6,7 +6,7 @@
     "logoB": "https://upload.wikimedia.org/wikipedia/ar/2/2e/Raja_Club_Athletic_logo.png",
     "leagueName": "الدوري المغربي",
     "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/7/77/Botola_Pro_logo.png",
-    "time": "2025-10-15T20:00:00Z",
+    "time": "2025-10-19T20:00:00Z",
     "scoreA": 2,
     "scoreB": 1
   },
@@ -17,7 +17,7 @@
     "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
     "leagueName": "الدوري الإسباني",
     "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-16T19:00:00Z",
+    "time": "2025-10-19T19:00:00Z",
     "scoreA":1,
     "scoreB":4
   },
@@ -29,7 +29,7 @@
     "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
     "leagueName": "الدوري الإسباني",
     "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-16T19:00:00Z",
+    "time": "2025-10-19T19:00:00Z",
     "scoreA":1,
     "scoreB":4
   },
@@ -107,3 +107,4 @@
     "scoreB":4
   }
 ]
+
