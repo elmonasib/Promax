@@ -2,24 +2,97 @@
   {
     "teamA": "الوداد",
     "teamB": "الرجاء",
-    "logoA": "https://upload.wikimedia.org/wikipedia/ar/5/5c/Wydad_AC_logo.png",
-    "logoB": "https://upload.wikimedia.org/wikipedia/ar/2/2e/Raja_Club_Athletic_logo.png",
+    "logoA": "image/morocco_botola-pro.png",
+    "logoB": "image/chelsea.png",
     "leagueName": "الدوري المغربي",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/7/77/Botola_Pro_logo.png",
+    "leagueLogo": "image/morocco_botola-pro.png",
     "time": "2025-10-19T20:00:00Z",
     "scoreA": 2,
     "scoreB": 1
   },
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-19T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
+  },
+
+   {
+    "teamA": "الوداد",
+    "teamB": "الرجاء",
+    "logoA": "image/espanyol.png",
+    "logoB": "image/chelsea.png",
+    "leagueName": "الدوري المغربي",
+    "leagueLogo": "image/atletico-madrid.png",
+    "time": "2025-10-19T20:00:00Z",
+    "scoreA": 2,
+    "scoreB": 1
   },
 
   {
@@ -30,81 +103,7 @@
     "leagueName": "الدوري الإسباني",
     "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
     "time": "2025-10-19T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
-    "scoreA":1,
-    "scoreB":4
-  },
-
-  {
-    "teamA": "برشلونة",
-    "teamB": "ريال مدريد",
-    "logoA": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logoB": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "leagueName": "الدوري الإسباني",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/6/6f/LaLiga_Santander.svg",
-    "time": "2025-10-17T19:00:00Z",
     "scoreA":1,
     "scoreB":4
   }
 ]
-

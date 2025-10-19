@@ -148,7 +148,7 @@ main {
 
 .match-card .teams {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 100%;
   margin-bottom: 8px;
@@ -165,9 +165,7 @@ main {
   width: var(--team-logo-size);
   height: var(--team-logo-size);
   object-fit: contain;
-  border-radius: 50%;
-  background: #fff;
-  border: 1px solid #ddd;
+  
 }
 
 .match-card .score-time {
@@ -237,8 +235,8 @@ body.dark .day-title {
     --card-padding: 6px;
     --card-gap: 5px;
     --league-logo-size: 19px;
-    --team-logo-size: 30px;
-    --score-font-size: 13px;
+    --team-logo-size: 40px;
+    --score-font-size: 14px;
     
   }
 
