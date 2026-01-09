@@ -6,7 +6,7 @@
     "logoB": "image/chelsea.png",
     "leagueName": "الدوري المغربي",
     "leagueLogo": "image/rm.png",
-    "time": "2025-10-25T10:55:00Z",
+    "time": "2026-1-09T10:55:00Z",
     "scoreA": 2,
     "scoreB": 1
   },
@@ -17,7 +17,7 @@
     "logoB": "image/chelsea.png",
     "leagueName": "الدوري المغربي",
     "leagueLogo": "image/atletico-madrid.png",
-    "time": "2025-10-25T11:55:00Z",
+    "time": "2026-1-09T10:55:00Z",
     "scoreA": 2,
     "scoreB": 1
   },
@@ -29,7 +29,7 @@
     "logoB": "image/chelsea.png",
     "leagueName": "الدوري المغربي",
     "leagueLogo": "image/atletico-madrid.png",
-    "time": "2025-10-25T20:00:00Z",
+    "time": "2026-1-09T10:55:00Z",
     "scoreA": 2,
     "scoreB": 1
   },
@@ -107,5 +107,6 @@
     "scoreB":4
   }
 ]
+
 
 
